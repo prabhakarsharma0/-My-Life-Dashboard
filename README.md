@@ -1,8 +1,10 @@
 # My Life Dashboard
 
-A free Streamlit app that turns any CSV (date, category, amount) into an interactive dashboard with charts and filters.
+A free Streamlit app that turns any CSV (`date`, `category`, `amount`) into an interactive dashboard with charts and filters.
 
 **Live demo:** [https://my-life-dashboardd.streamlit.app](https://my-life-dashboardd.streamlit.app)
+
+![Dashboard screenshot](images/dashboard.png)
 
 ---
 
@@ -20,6 +22,8 @@ A free Streamlit app that turns any CSV (date, category, amount) into an interac
 
 No Excel. No pivot tables. Upload a new file and the charts update.
 
+![Demo GIF](images/demo.gif)
+
 ---
 
 ## Project files
@@ -29,6 +33,7 @@ No Excel. No pivot tables. Upload a new file and the charts update.
 | `app.py` | Main Streamlit dashboard |
 | `expenses.csv` | Sample data for demo |
 | `requirements.txt` | Python dependencies |
+| `images/` | Screenshots and demo GIF |
 
 ---
 
