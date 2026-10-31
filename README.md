@@ -13,7 +13,7 @@
 
 ![Dashboard](images/dashboard.png)
 
-![Demo](images/demo.gif)
+![Demo](images/demo.mp4)
 
 > Upload a CSV → filter by date and category → instantly see where the money went.
 
